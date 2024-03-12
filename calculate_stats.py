@@ -2,7 +2,8 @@
 Design a function that takes a list of numerical data and performs calculations
 for mean, median and standard deviation.
 Write unit tests to verify the correctness of the statistical calculations
-for various inputs, including edge cases like an empty list or a list with one element  (Use unittest module).
+for various inputs, including edge cases like an empty list or a list with one element  
+(Use unittest module).
 """
 
 import math
